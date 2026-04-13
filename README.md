@@ -13,7 +13,7 @@ My core methodology: **Smart Owner & Dumb Tools** — the Planner holds context 
 <table>
   <tr>
     <td width="50%">
-      <h4>🛡️ <a href="https://github.com/watsonk1998/hermes-review-agent">Hermes Review Agent</a></h4>
+      <h4>🛡️ <a href="https://github.com/watsonctl/hermes-review-agent">Hermes Review Agent</a></h4>
       <p>Enterprise-grade AI Control Plane for bounded, fail-closed document review. Features strict YAML governance, Pydantic guardrails, multi-agent isolation boundaries, and deterministic 5-dimension reporting for Architectural/Engineering domains.</p>
     </td>
     <td width="50%">
@@ -23,11 +23,11 @@ My core methodology: **Smart Owner & Dumb Tools** — the Planner holds context 
   </tr>
   <tr>
     <td width="50%">
-      <h4>📖 <a href="https://github.com/watsonk1998/obsidian-engram-playbook">Obsidian Engram Playbook</a></h4>
+      <h4>📖 <a href="https://github.com/watsonctl/obsidian-engram-playbook">Obsidian Engram Playbook</a></h4>
       <p>Engram-first knowledge governance playbook for bridging Obsidian PKM with self-evolving LLM agents. Open-source methodology for persistent AI memory and structured knowledge retrieval.</p>
     </td>
     <td width="50%">
-      <h4>🐾 <a href="https://github.com/watsonk1998/claw-code">Claw Code</a></h4>
+      <h4>🐾 <a href="https://github.com/watsonctl/claw-code">Claw Code</a></h4>
       <p>The fastest repo in history to surpass 50K stars ⭐. Better Harness Tools — now rewriting in Rust.</p>
     </td>
   </tr>
