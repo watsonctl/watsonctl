@@ -1,43 +1,41 @@
-### Hi there 👋
+# Watsonctl → Builder of Fail-Closed AI Agent Systems
 
-**Builder of Fail-Closed AI Agent Systems · Open Source Contributor · Vibe Coding Practitioner**
+**Architecting constrained, deterministic LLM applications with hard boundaries | Open Source Contributor**
 
-I architect constrained, deterministic LLM applications that execute real-world cognitive workflows with hard boundaries — not just generate text.
+```python
+# What I do best
+def solve_complex_problems():
+    return {
+        "methodology": "Smart Owner & Dumb Tools",
+        "fail_closed": "Strict YAML governance & Pydantic guardrails",
+        "production_ready": "Multi-agent isolation, deterministic reporting"
+    }
+```
 
-My core methodology: **Smart Owner & Dumb Tools** — the Planner holds context and makes decisions; Executors handle bounded tasks with Fail-Closed guardrails.
+## 🎯 Current Focus
+
+- 🛡️ **AI Control Planes**: Scaling [Hermes Review Agent](https://github.com/watsonctl/hermes-review-agent) for enterprise-grade document review.
+- 🧠 **Persistent Memory**: Refining the [Obsidian Engram Playbook](https://github.com/watsonctl/obsidian-engram-playbook) for structured knowledge retrieval.
+
+## ⚡ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,docker,nextjs,ts,git,github,pydantic,obsidian)](https://skillicons.dev)
+
+## 🚀 Production Impact
+
+- **LLM Wiki Agent**: Core Contributor to this **1.6k+ ⭐ Star** project. Fixed critical cache state-loss and rendering issues.
+- **Claw Code**: Architected high-performance harness tools; currently refactoring in Rust for maximum efficiency.
+- **Hermes Review Agent**: Delivered a deterministic 5-dimension reporting system for complex engineering domains.
+
+## 🌐 Languages
+
+- 🇨🇳 **Chinese** (Native)
+- 🇺🇸 **English** (Professional)
 
 ---
 
-### 🚀 What I Build & Contribute To
+## 💼 Open to
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🛡️ <a href="https://github.com/watsonctl/hermes-review-agent">Hermes Review Agent</a></h4>
-      <p>Enterprise-grade AI Control Plane for bounded, fail-closed document review. Features strict YAML governance, Pydantic guardrails, multi-agent isolation boundaries, and deterministic 5-dimension reporting for Architectural/Engineering domains.</p>
-    </td>
-    <td width="50%">
-      <h4>🧠 <a href="https://github.com/SamurAIGPT/llm-wiki-agent">LLM Wiki Agent</a> · <a href="https://github.com/SamurAIGPT/llm-wiki-agent/pull/13">Merged PR #13</a></h4>
-      <p>Core Contributor to this <b>1.6k+ ⭐ Star</b> project — a self-building personal knowledge base powered by local LLMs. I fixed <a href="https://github.com/SamurAIGPT/llm-wiki-agent/pull/13">cache state-loss bugs and vis.js rendering issues</a> that affected all users.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>📖 <a href="https://github.com/watsonctl/obsidian-engram-playbook">Obsidian Engram Playbook</a></h4>
-      <p>Engram-first knowledge governance playbook for bridging Obsidian PKM with self-evolving LLM agents. Open-source methodology for persistent AI memory and structured knowledge retrieval.</p>
-    </td>
-    <td width="50%">
-      <h4>🐾 <a href="https://github.com/watsonctl/claw-code">Claw Code</a></h4>
-      <p>The fastest repo in history to surpass 50K stars ⭐. Better Harness Tools — now rewriting in Rust.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Stack & Approach
-- **Agent Orchestration**: Bare-metal Python, Pydantic, FastAPI, Multi-Agent Handoffs
-- **Paradigms**: Vibe Coding, Document-Driven Execution, Harness Engineering, 12-Factor Config
-- **Ecosystem**: Next.js, Obsidian, MCP (Model Context Protocol), Docker Compose
-
-> *"If I want a complex system to fail, I'd just write a single sprawling prompt. Instead, I build Hard Gates."*
+- [x] Full-stack AI Agent Architect roles
+- [x] Open Source Collaboration
+- [x] Technical Consultation (Fail-Closed Systems)
